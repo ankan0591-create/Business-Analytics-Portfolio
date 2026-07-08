@@ -1,0 +1,27 @@
+# Core Data Analysis
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+statsmodels
+
+# Notebook Environment
+jupyter
+notebook
+ipykernel
+
+# Excel Support
+openpyxl
+xlsxwriter
+
+# Data Handling
+pyarrow
+
+# Model Persistence
+joblib
