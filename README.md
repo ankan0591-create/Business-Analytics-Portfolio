@@ -31,55 +31,31 @@ This repository demonstrates my ability to:
 - Deliver actionable business recommendations
 
 ---
-
-# 🛠 Core Competencies
+# 📂 Portfolio Categories
 
 ## 📈 Data Science
-
 - Python
 - Pandas
 - NumPy
 - Statistics
+- Exploratory Data Analysis
 - Machine Learning
-- Data Visualization
-
----
 
 ## 🗄 SQL
 
-- Data Extraction
-- Data Cleaning
-- Window Functions
-- Common Table Expressions (CTEs)
-- Business Reporting
-
----
-
 ## 📊 Business Intelligence
-
 - Power BI
-- Dashboard Design
-- KPI Reporting
-- Executive Reporting
-
----
 
 ## ⚙ Process Improvement
-
 - Lean
 - Six Sigma
 - DMAIC
-- Root Cause Analysis
 - Process Mapping
-- Process Mining *(Upcoming)*
-
----
 
 ## 📋 Project Management
-
 - Agile
 - Scrum
-- PMP *(Upcoming)*
+- PMP *(Future Projects)*
 
 ---
 
@@ -161,17 +137,22 @@ Recommendations
 ✔ Reproducible Code
 
 ---
-
 # 🌱 Current Learning Roadmap
 
-### ✅ Current Focus
+### ✅ Completed
 
-- Python
-- Statistics
+- Python Fundamentals
+- NumPy
+- Pandas
+- Data Visualization
+
+### 🚧 Currently Learning
+
 - Exploratory Data Analysis
-- Machine Learning
+- Statistics
+- Linear Regression
 
-### 📅 Upcoming
+### 📅 Next
 
 - SQL
 - Power BI
@@ -179,19 +160,6 @@ Recommendations
 - PMP
 - Process Mining
 - AI Applications for Business
-
----
-
-# 📌 Project Standards
-
-Every project includes:
-
-- 📄 Detailed README
-- 📊 Executive Summary
-- 📓 Well-documented Code
-- 📈 Visualizations
-- 💼 Business Recommendations
-- 📂 Organized Project Structure
 
 ---
 
