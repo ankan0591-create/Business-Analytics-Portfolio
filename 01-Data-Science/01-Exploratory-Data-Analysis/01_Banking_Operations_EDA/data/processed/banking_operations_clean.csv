@@ -1,0 +1,31 @@
+Transaction_ID,Customer_ID,Product,Region,Processing_Time,Error_Count,SLA_Breach,Cost_Per_Txn,Revenue,Processing_Time_Min,SLA_Breach_Flag,Negative_Revenue_Flag
+TXN1001,C001,Credit Card,India,12 mins,0,No,50,250,12,0,False
+TXN1002,C002,Loan,India,18 mins,1,No,120,600,18,0,False
+TXN1003,C003,Mortgage,UK,45 mins,3,Yes,400,1500,45,1,False
+TXN1004,C004,Credit Card,USA,15 mins,0,No,55,270,15,0,False
+TXN1005,C005,Loan,India,22 mins,2,Yes,125,620,22,1,False
+TXN1006,C006,Mortgage,UK,50 mins,4,Yes,420,1550,50,1,False
+TXN1007,C007,Credit Card,India,13 mins,0,No,52,260,13,0,False
+TXN1008,C008,Savings,India,8 mins,0,No,20,90,8,0,False
+TXN1009,C009,Savings,India,7 mins,0,No,18,85,7,0,False
+TXN1010,C010,Credit Card,USA,14 mins,0,No,50,255,14,0,False
+TXN1011,C011,Loan,UK,35 mins,2,Yes,130,610,35,1,False
+TXN1012,C012,Credit Card,Unknown,12 mins,0,No,48,250,12,0,False
+TXN1013,C013,Mortgage,USA,48 mins,3,Yes,410,1480,48,1,False
+TXN1014,C014,Credit Card,India,11 mins,0,No,51,245,11,0,False
+TXN1015,C015,Loan,India,20 mins,1,No,122,615,20,0,False
+TXN1016,C016,Savings,USA,9 mins,0,No,22,95,9,0,False
+TXN1017,C017,Credit Card,India,300 mins,0,Yes,50,250,300,1,False
+TXN1018,C018,Mortgage,UK,47 mins,4,Yes,430,1520,47,1,False
+TXN1019,C019,Loan,India,19 mins,1,No,121,605,19,0,False
+TXN1020,C020,Savings,India,8 mins,0,No,20,88,8,0,False
+TXN1021,C021,Credit Card,India,13 mins,0,No,50,-500,13,0,True
+TXN1022,C022,Mortgage,USA,46 mins,3,Yes,415,1495,46,1,False
+TXN1023,C023,Loan,India,21 mins,2,Yes,125,630,21,1,False
+TXN1024,C024,Savings,India,8 mins,0,No,19,92,8,0,False
+TXN1025,C025,Credit Card,India,15 mins,0,No,53,260,15,0,False
+TXN1026,C026,Mortgage,UK,49 mins,4,Yes,425,1510,49,1,False
+TXN1027,C027,Loan,India,20 mins,1,No,120,610,20,0,False
+TXN1028,C028,Savings,USA,10 mins,0,No,21,98,10,0,False
+TXN1029,C029,Credit Card,India,14 mins,0,No,52,255,14,0,False
+TXN1030,C030,Mortgage,USA,500 mins,10,Yes,420,1500,500,1,False
